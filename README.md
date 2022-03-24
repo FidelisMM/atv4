@@ -19,6 +19,10 @@
 
 - Colocar essa informação no Readme do Git ou Em comentários de código na classe main
 
+1 - R$ 0,00
+2 - R$ 161,25
+3 - R$ 525,00
+4 - R$ 1540,00
 
 ## DESAFIO
 
